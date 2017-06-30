@@ -1,4 +1,5 @@
-关注点分离
+```
+关注点分离:Separation of concerns，SOC
 
 liquibase 数据迁移平台
 
@@ -42,3 +43,4 @@ IoT:Internet of Things 物联网
 
 RFID:radio frequency id
 
+```
